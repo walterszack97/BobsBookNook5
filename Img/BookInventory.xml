@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Book>
+    <Title>15th Affair</Title>
+    <ISBN>8767545327890</ISBN>
+    <Author>Maxine Paetro and James Patterson</Author>
+    <Category>Mystery</Category>
+    <Image>15thAffair.jpg</Image>
+    <Description>The book is really great and I cannot put it down but I cannot wait for 16 to come out. These two authors are together to put so much action and flow to there books so reader will not able to stop reading!!</Description>
+  </Book>
+  <Book>
+    <Title>Smooth Operator</Title>
+    <ISBN>6565767897654</ISBN>
+    <Author>Stuart Woods</Author>
+    <Category>Mystery</Category>
+    <Image>smooth-operator.jpg</Image>
+    <Description>When President Kate Lee calls Stone Barrington to Washington on an urgent matter, it’s soon clear that a potentially disastrous situation requires the kind of help more delicate than even he can provide. . . </Description>
+  </Book>
+  <Book>
+    <Title>Unlucky 13</Title>
+    <ISBN>7878678909871</ISBN>
+    <Author>Maxine Paetro and James Patterson</Author>
+    <Category>Mystery</Category>
+    <Image>unlucky13.jpg</Image>
+    <Description>The Women's Murder Club is stalked by a killer with nothing to lose. San Francisco Detective Lindsay Boxer is loving her life as a new mother. With an attentive husband, a job she loves, plus best friends who can talk about anything from sex to murder, things couldn't be better. Then the FBI sends Lindsay a photo of a killer from her past, and her happy world is shattered. The Murder Club must find a killer--before she finds them first.</Description>
+  </Book>
+  <Book>
+    <Title>Disonerable Intentions</Title>
+    <ISBN>8796859403215</ISBN>
+    <Author>Stuart Woods</Author>
+    <Category>Mystery</Category>
+    <Image>dishonorable-intentions.jpg</Image>
+    <Description>Stone Barrington’s latest lady friend is full of surprises, both good and ill. A sensual woman with unexpected desires, Stone finds her revelations in the boudoir extremely agreeable. But on the other hand, she also has some unfinished business with a temperamental man who believes Stone is an intolerable obstacle in the way of his goals.</Description>
+  </Book>
+</Inventory>

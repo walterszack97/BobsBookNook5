@@ -1,0 +1,2 @@
+﻿Copy the App_Code connection code cs file from Homework 5 into this folder.
+Once you have completed that, you may delete this file
